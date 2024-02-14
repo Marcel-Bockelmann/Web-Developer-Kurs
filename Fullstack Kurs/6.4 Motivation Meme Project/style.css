@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    margin: 0;
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 10px6;
+}
+#DIV1{
+    margin-top: 200px;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+.BIld{
+    border: 10px solid white;
+}
